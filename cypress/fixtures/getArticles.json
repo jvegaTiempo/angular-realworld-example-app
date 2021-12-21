@@ -1,0 +1,141 @@
+{
+    "articles":[
+       {
+          "slug":"test-5478",
+          "title":"test",
+          "description":"test",
+          "body":"test",
+          "createdAt":"2021-12-20T22:51:08.571Z",
+          "updatedAt":"2021-12-20T22:51:08.571Z",
+          "tagList":[
+             
+          ],
+          "author":{
+             "username":"UserNamewns9w6r9udc",
+             "bio":null,
+             "image":"https://api.realworld.io/images/smiley-cyrus.jpeg"
+          },
+          "comments":[
+             
+          ],
+          "favoritesCount":0,
+          "favorited":false
+       },
+       {
+          "slug":"Create-a-new-implementation-1",
+          "title":"Create a new implementation",
+          "description":"join the community by creating a new implementation",
+          "body":"Share your knowledge and enpower the community by creating a new implementation",
+          "createdAt":"2021-11-24T12:11:08.212Z",
+          "updatedAt":"2021-11-24T12:11:08.212Z",
+          "tagList":[
+             "implementations"
+          ],
+          "author":{
+             "username":"Gerome",
+             "bio":null,
+             "image":"https://api.realworld.io/images/demo-avatar.png"
+          },
+          "comments":[
+             {
+                "id":4,
+                "createdAt":"2021-11-24T12:11:08.340Z",
+                "updatedAt":"2021-11-24T12:11:08.340Z",
+                "body":"Before starting a new implementation, please check if there is any work in progress for the stack you want to work on.",
+                "author":{
+                   "username":"Gerome",
+                   "bio":null,
+                   "image":"https://api.realworld.io/images/demo-avatar.png"
+                }
+             },
+             {
+                "id":2031,
+                "createdAt":"2021-12-20T15:26:19.315Z",
+                "updatedAt":"2021-12-20T15:26:19.315Z",
+                "body":"a",
+                "author":{
+                   "username":"abcdeffadfag",
+                   "bio":null,
+                   "image":"https://api.realworld.io/images/smiley-cyrus.jpeg"
+                }
+             }
+          ],
+          "favoritesCount":430,
+          "favorited":false
+       },
+       {
+          "slug":"Explore-implementations-1",
+          "title":"Explore implementations",
+          "description":"discover the implementations created by the RealWorld community",
+          "body":"Over 100 implementations have been created using various languages, libraries, and frameworks.\n\nExplore them on CodebaseShow.",
+          "createdAt":"2021-11-24T12:11:07.952Z",
+          "updatedAt":"2021-11-24T12:11:07.952Z",
+          "tagList":[
+             "codebaseShow",
+             "implementations"
+          ],
+          "author":{
+             "username":"Gerome",
+             "bio":null,
+             "image":"https://api.realworld.io/images/demo-avatar.png"
+          },
+          "comments":[
+             {
+                "id":3,
+                "createdAt":"2021-11-24T12:11:08.084Z",
+                "updatedAt":"2021-11-24T12:11:08.084Z",
+                "body":"There are 3 categories: Frontend, Backend and FullStack",
+                "author":{
+                   "username":"Gerome",
+                   "bio":null,
+                   "image":"https://api.realworld.io/images/demo-avatar.png"
+                }
+             },
+             {
+                "id":2026,
+                "createdAt":"2021-12-20T14:45:35.079Z",
+                "updatedAt":"2021-12-20T14:45:35.079Z",
+                "body":"Nice",
+                "author":{
+                   "username":"jango",
+                   "bio":null,
+                   "image":"https://api.realworld.io/images/smiley-cyrus.jpeg"
+                }
+             }
+          ],
+          "favoritesCount":275,
+          "favorited":false
+       },
+       {
+          "slug":"Welcome-to-Cypress",
+          "title":"Welcome to Cypress Real World Example project",
+          "description":"Welcome to Cypress Real World Example project",
+          "body":"SWelcome to Cypress Real World Example project",
+          "createdAt":"2021-11-24T12:11:07.557Z",
+          "updatedAt":"2021-11-24T12:11:07.557Z",
+          "tagList":[
+          ],
+          "author":{
+             "username":"Gerome",
+             "bio":null,
+             "image":"https://api.realworld.io/images/demo-avatar.png"
+          },
+          "comments":[
+             {
+                "id":99,
+                "createdAt":"2021-11-24T12:11:07.696Z",
+                "updatedAt":"2021-11-24T12:11:07.696Z",
+                "body":"Cypress Mocking Data",
+                "author":{
+                   "username":"Cypress_test",
+                   "bio":null,
+                   "image":"https://api.realworld.io/images/demo-avatar.png"
+                }
+             }
+          ],
+          "favoritesCount":11,
+          "favorited":false
+       }
+    ],
+    "articlesCount":4
+ }
